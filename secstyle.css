@@ -1,0 +1,8 @@
+.activesign{
+    border-bottom: 2px solid black;
+    background: linear-gradient( to left,black, cyan); 
+}
+
+.notactive{
+    border: none;
+}
